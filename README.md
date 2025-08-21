@@ -29,7 +29,3 @@ The dashboard was built in **Microsoft Excel** using the following techniques:
 3. Navigate using the sidebar menu (Dashboard, Dataset, Analysis, Contact).  
 4. Use filters to explore billionaires by **Region, Industry, Gender, and Self-Made status**.  
 
-
-
-
-## 📂 Project Structure
